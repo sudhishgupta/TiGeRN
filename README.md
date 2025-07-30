@@ -1,4 +1,4 @@
-## TiGeRN : Teams in Gene Regulatory Network 
+## 🐯 TiGeRN : Teams in Gene Regulatory Network 
 
 This repository provides an implementation of a spectral clustering pipeline tailored for signed graphs, specifically gene regulatory networks (GRNs) with activation and repression edges. The algorithm computes a truncated affinity matrix, forms a normalized Laplacian, solves the eigenvalue problem, and applies k-means clustering on the eigenvectors to partition the graph into coherent modules.
 
